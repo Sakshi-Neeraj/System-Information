@@ -48,3 +48,5 @@ source monitor-env/bin/activate
 pip install psutil psycopg2-binary
 
 python3 monitor.py
+
+https://drive.google.com/file/d/1CQMKDCUeAqQKFCJBVoy1FU1l_2nylgkT/view?usp=drive_link
