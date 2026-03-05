@@ -5,6 +5,7 @@ Create GCE and Cloud SQL instance in GCP
 Connect to GCE using SSH through console
 
 SQL Studio Queries-
+
 CREATE DATABASE system_information;
 CREATE TABLE performance (
 time TIMESTAMP,
